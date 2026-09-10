@@ -1,0 +1,9 @@
+# Full-scale match data -- too large to commit, keep local only
+raw/
+extracted/
+*.zip
+
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
